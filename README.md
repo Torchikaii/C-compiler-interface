@@ -9,4 +9,8 @@ How to set up:
 4. double click main.py to run it.
 
 Note: main.py is by default configured to run .cpp files from D: drive only,
-you can change it to other drive in main.py file, line 
+you can change it to other drive in main.py file, line 44.
+
+before running main.py you need to save your .cpp file (convenient to use ctrl + s)
+
+also it is convenient to create shortcut for main.py and dataa.txt files on your taskbar.
