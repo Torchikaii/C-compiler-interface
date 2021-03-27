@@ -41,7 +41,6 @@ def main():
 
         # If your cpp file is in other drive (for example E), then rename D: with E:
         # in the line of code below.
-        #print(f'{pathh}\n{file2}{file1}')
         os.system(f'cmd /k "D: && cd {pathh} && g++ -o {file2} {file1} && {file2}.exe"')
         runn = True
 
