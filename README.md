@@ -17,7 +17,6 @@ folders in which are .cpp file can contain spaces in their names, but cannot con
 
 before running main.py you need to save your .cpp file (convenient to use ctrl + s)
 
-also it is convenient to create shortcut for main.py and dataa.txt files on your taskbar.
 
 
 
