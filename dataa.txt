@@ -1,9 +1,1 @@
-Delete this files content and then
-
-Insert full path to your .cpp file in this file
-
-example: D:\documents folder\test_file.cpp
-
-Note:
-.cpp file cannot contain spaces in it's name, but it can contain non-english letters
-folders in which are .cpp file can contain spaces in their names, but cannot contain non-english letters
+insert full path of your .cpp file here
