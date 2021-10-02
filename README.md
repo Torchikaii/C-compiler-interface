@@ -13,9 +13,9 @@ Note: main.py is by default configured to run .cpp files from D: drive only,
 you can change it to other drive in main.py file, line 44.
 
 .cpp file cannot contain spaces in it's name, but it can contain non-english letters
-folders in which are .cpp file can contain spaces in their names, but cannot contain non-english letters
+folders in which are .cpp file can contain spaces in their names, but cannot contain non-english letters.
 
-before running main.py you need to save your .cpp file (convenient to use ctrl + s)
+Before running main.py you need to save your .cpp file (convenient to use ctrl + s).
 
 
 
